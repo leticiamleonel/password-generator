@@ -2,6 +2,7 @@ Password Generator
 --
 
 Projeto simples de geração de senhas utilizando as tecnologias HTML5, CSS e JavaScript.
+Link: https://password-generator-rho-nine-85.vercel.app/
 
 ![telainicial](https://github.com/leticiamleonel/password-generator/assets/80080400/aac3ac50-1307-4db3-ba27-bf7237db02fc)
 
